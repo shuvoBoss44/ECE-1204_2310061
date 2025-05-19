@@ -1,4 +1,3 @@
-## ECE-1103_2310061_Assignment
 <div align="center">
   
 _**Heaven’s Light is Our Guide**_
