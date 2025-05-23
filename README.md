@@ -47,7 +47,7 @@ _**Heaven’s Light is Our Guide**_
 ## INDEX:
 | Lab No. | Title | Link | Codeforces |
 | :---: | :---: | :---: | :---: |
-| 01 | Prime Num, Reverse Num,Temparature | [Lab 01](https://github.com/shuvoBoss44/ECE-1104_2310061/blob/main/Lab%20Report/lab_01.md) | 0 |
+| 01 | Checking Date is valid or not | [Lab 01](https://github.com/shuvoBoss44/ECE-1204_2310061/blob/main/Lab%20Report/lab_01.md) | 1 |
 
 
 </div>
