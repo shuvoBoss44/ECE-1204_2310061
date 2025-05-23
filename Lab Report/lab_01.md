@@ -1,7 +1,7 @@
 # Code Forces
 # No of solve: 1
 # Screenshot:
-<img width="895" alt="Image" src="https://github.com/user-attachments/assets/82731edf-291b-4e6a-899e-91bff2af4778" />
+<img width="1172" alt="Image" src="https://github.com/user-attachments/assets/17cf50ea-a338-485c-97d8-3fcab52bbb7b" />
 
 # Experiment Number: 05
 # Experiment Name: Checking a Date is valid or invalid
